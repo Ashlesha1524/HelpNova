@@ -1,5 +1,5 @@
 (function () {
-    const api_Url = "http://localhost:3000/api/auth/chat";
+    const api_Url = "https://help-nova.vercel.app/api/auth/chat";
     const scriptTag = document.currentScript;
     const ownerId = scriptTag.getAttribute("data-owner-id");
 
