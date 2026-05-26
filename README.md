@@ -74,10 +74,10 @@ data-owner-id="YOUR_OWNER_ID">
 
 ## Screenshots
 
-- Dashboard
-- Live Preview
+- Home Page
+- Dashboard Configuration
 - Embedded Chatbot
-- Settings Panel
+- AI Chatbot Conversation
 
 ## Deployment
 
